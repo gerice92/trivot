@@ -1,0 +1,40 @@
+[
+    {
+        "filter" : "decada",
+        "categories": 
+        [
+            {
+                "type" : "70's",
+                "link": "37i9dQZF1DWTJ7xPn4vNaz"
+            },
+            {
+                "type" : "00's",
+                "link": "37i9dQZF1DX4o1oenSJRJd"
+            },
+            {
+                "type" : "80's",
+                "link": "37i9dQZF1DX4UtSsGT1Sbe"
+            }
+        ]
+    },
+    {
+        "filter": "genero",
+        "categories": 
+        [
+            {
+                "type" : "Rock",
+                "link": "37i9dQZF1DWXRqgorJj26U"
+            },
+            {
+                "type" : "Pop",
+                "link": "37i9dQZF1DWTyTiBbDrmml"
+            },
+            {
+                "type" : "R&B",
+                "link": "37i9dQZF1DX2WkIBRaChxW"
+            }
+        ]
+        
+    }
+
+]
